@@ -4,3 +4,9 @@ Witam serdecznie w moim profilowym repozytorium. Nazywam się Dominik Mrozek. Lu
 
 Link do mojej strony: 
 <a href="https://DominikMrozek.github.io/">Moja strona</a>
+
+Link do repozytorium, do którego stworzyłem fork:
+<a href="https://github.com/openai/human-eval">repozytorium openai/human-eval</a>
+
+Link do strony wybranego artykułu:
+<a href="https://paperswithcode.com/paper/evaluating-large-language-models-trained-on?fbclid=IwAR1Q6QMUqQJjgT4WmF9w1PMaN6oe-R5x3lfKwBqfpNufE8DizTLrgsF8uHM">artykuł</a>
